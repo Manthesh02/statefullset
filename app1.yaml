@@ -33,4 +33,4 @@ spec:
   ports:
   - name: http
     targetPort: 9090
-    port: 8080
+    port: 9090
